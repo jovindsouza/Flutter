@@ -1,4 +1,4 @@
-# mi_card_app
+# my_card_app
 
 A new Flutter application.
 
